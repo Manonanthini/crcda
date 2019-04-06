@@ -1,4 +1,4 @@
-# crcda
+# CRCDA
 Comprehensive Resources for Cancer NGS Data Analysis (CRCDA)
 
 A simple repository to list different tools of NGS data analysis. The github version of this project includes only static pages.
