@@ -1,0 +1,141 @@
+body {
+  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 20px 50px 50px;
+  font-size: 14px;
+  text-align: center;
+  background-color: #e6dce7;
+  background-size: 100%;
+   font-style: italic;
+   h2:15px;
+ 
+}
+#fnt{
+	padding: 	0;
+	margin: :0;
+	font-family: 'Lucida Grande';font-size: 18PX;
+}
+.compviw{
+height:auto;
+width:100%;
+overflow:scroll;
+
+}
+
+#content{
+
+margin:auto;
+height:200px;
+color:#FFFFFF;
+}
+h3{
+	font-style: italic;
+	font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h4{
+	  font-size: 15px;
+	font-style: italic;
+	font: bold Lucida Console;
+}
+ li {
+  font: bold 15px/20px sans-serif;
+    display: block;
+  position: relative;
+  padding: 15px 20px;
+   cursor: pointer;
+   color: #121212;
+   text-align: left;
+ -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+ box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+padding: 15px 4px 17px 0;
+}
+ol li{
+font: 15px/20px sans-serif;
+  display: block;
+  text-align: left;
+  padding: 10px;
+  	
+}
+ol li:hover {
+    color: #1b09b9;
+}
+
+ul {
+  text-align: left;
+  display: inline;
+  margin: 0;
+  padding: 15px 4px 17px 0;
+  list-style: none;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+ul li {
+  font: bold 15px/20px sans-serif;
+  display: inline-block;
+  margin-right: -4px;
+  position: relative;
+  padding: 15px 25px;
+  background: #ffffff;
+  cursor: pointer;
+  }
+ul li:hover {
+  background: #fbeafd;
+  color: #ffffff;
+}
+ul li ul {
+  padding: 0;
+  position: absolute;
+  top: 48px;
+  left: 0;
+  margin-right: -4px;
+  width: 150px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  display: none;
+  opacity: 2;
+  visibility: hidden;
+  
+}
+ul li ul li { 
+  background: #fbeafd; 
+  display: block; 
+  color: #ffffff;
+  text-align: justify;
+  padding: 10px 210px 10px 10PX;
+  text-shadow: 0 -1px 0 #000;
+font: bold 15px/20px sans-serif;
+position: relative;}
+ul li ul li:hover { background: #ffffff; }
+ul li:hover ul {
+  display: block;
+    opacity: 2;
+  visibility: visible;
+  position: absolute;
+    z-index: 2;
+    font-size : 11pt;
+ 
+}
+#hrDIV { 
+
+  font: bold 15px/20px sans-serif;
+   }
+#list{
+	line-height: 1.15;	
+}
+#top{
+	text-align: right;	
+}
+#list1 {
+	text-align: left;
+	line-height: 1;
+	padding:0px;	
+}
+#counter{
+	p.test {
+    width: 11em; 
+    border: 1px solid #000000;
+    word-wrap: break-word;
+}
